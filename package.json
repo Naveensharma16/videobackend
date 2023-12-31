@@ -1,0 +1,21 @@
+{
+  "name": "videobackend",
+  "version": "1.0.0",
+  "description": "backend fro yotube like app",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "backend",
+    "javascript",
+    "express"
+  ],
+  "author": "naveen sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
